@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top:2rem;
+}
+
+.css-10hburv-MuiTypography-root, .css-83ijpv-MuiTypography-root{
+  text-align:center;
+}
+
+.listitemtext{
+  text-align:center;
+}
+
+.gubmic{
+  margin-top:2rem;
+  display:flex;
+  justify-content:center;
+}
